@@ -1,2 +1,0 @@
-#!/bin/bash
-find /path/to/source/directory -type f -name [A-Z]* -exec mv {} /tmp/u \;
