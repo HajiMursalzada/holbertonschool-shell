@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown vincent hello -name guillaume
+find -name guillaume exec sudo chown vincent hello
