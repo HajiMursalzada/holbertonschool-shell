@@ -1,0 +1,22 @@
+total 72
+drwxr-xr-x 2 root root  4096 Oct 11 00:45 .
+drwxr-xr-x 6 root root    86 Oct 10 23:54 ..
+-rwxr--r-- 1 root root    32 Oct 10 23:56 0-hello_world
+-rw-r--r-- 1 root root     0 Oct 10 23:54 0-hello_world~
+-rwxr--r-- 1 root root    28 Oct 11 00:06 1-confused_smiley
+-rw-r--r-- 1 root root    27 Oct 11 00:05 1-confused_smiley~
+-rwxr--r-- 1 root root    28 Oct 11 00:09 2-hellofile
+-rwxr--r-- 1 root root    38 Oct 11 00:13 3-twofiles
+-rwxr--r-- 1 root root    35 Oct 11 00:15 4-lastlines
+-rwxr--r-- 1 root root    35 Oct 11 00:17 5-firstlines
+-rwxr--r-- 1 root root    94 Oct 11 00:34 #7-file#
+lrwxrwxrwx 1 root root    22 Oct 11 00:34 .#7-file -> root@0d29ba206a9f.2129
+-rwxr--r-- 1 root root    88 Oct 11 00:42 7-file
+-rwxr--r-- 1 root root    90 Oct 11 00:41 7-file~
+-rw-r--r-- 1 root root 12288 Oct 11 00:29 .7-file.swp
+-rwxr--r-- 1 root root    36 Oct 11 00:45 8-cwd_state
+-rw-r--r-- 1 root root    12 Oct 11 00:42 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rwxr--r-- 1 root root    51 Oct 11 00:01 git-upload
+-rw-r--r-- 1 root root     0 Oct 10 23:59 git-upload~
+-rw-r--r-- 1 root root     0 Oct 11 00:45 ls_cwd_content
+-rw-r--r-- 1 root root     2 Oct 10 23:52 README.md
